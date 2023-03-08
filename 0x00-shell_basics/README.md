@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Hidden files
 I love numbers
 Welcome
+Moving files
