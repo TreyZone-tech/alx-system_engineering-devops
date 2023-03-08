@@ -11,3 +11,4 @@ Deleting first directory
 Changing to previous directory
 Listing all files in the current directory and boot
 Script that prints file type
+create a symbolic link
