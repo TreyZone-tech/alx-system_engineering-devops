@@ -8,3 +8,4 @@ Welcome
 Moving files
 Delete betty file
 Deleting first directory
+Changing to previous directory
