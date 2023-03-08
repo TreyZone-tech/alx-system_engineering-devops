@@ -9,3 +9,4 @@ Moving files
 Delete betty file
 Deleting first directory
 Changing to previous directory
+Listing all files in the current directory and boot
