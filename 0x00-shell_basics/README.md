@@ -14,3 +14,4 @@ Script that prints file type
 create a symbolic link
 Copying HTML files
 Moving all files with an uppercase letter
+Clean emacs
