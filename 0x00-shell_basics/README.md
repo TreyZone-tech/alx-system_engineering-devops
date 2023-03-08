@@ -16,3 +16,4 @@ Copying HTML files
 Moving all files with an uppercase letter
 Clean emacs
 Tree
+listing all files and directories of the current directory
