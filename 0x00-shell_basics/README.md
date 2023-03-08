@@ -6,3 +6,4 @@ Hidden files
 I love numbers
 Welcome
 Moving files
+Delete betty file
