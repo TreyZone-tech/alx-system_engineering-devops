@@ -9,3 +9,4 @@ script that adds execution permission to the owner, the group owner and the othe
 James bond
 John Doe
 Look in the mirror
+Directories
