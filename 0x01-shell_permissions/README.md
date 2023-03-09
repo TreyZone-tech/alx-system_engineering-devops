@@ -12,3 +12,4 @@ Look in the mirror
 Directories
 More directories
 Change group
+changes the owner to vincent and the group owner to staff
