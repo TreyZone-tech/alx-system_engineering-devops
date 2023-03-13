@@ -14,3 +14,4 @@ Sorting and identifying unique characters
 Finding a word
 Count the number of lines that contain a word
 Whats next
+I hate bins
