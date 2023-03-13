@@ -18,3 +18,4 @@ I hate bins
 Letters only please
 A to Z
 Remove C from all words
+Reverses its input
