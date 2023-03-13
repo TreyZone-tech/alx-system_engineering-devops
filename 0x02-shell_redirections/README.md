@@ -22,3 +22,4 @@ Reverses its input
 DJ cut killer
 Advanced task 1
 A gif is worth ten thousand word
+Acrostic
