@@ -7,3 +7,4 @@ Third line of a file
 Creates a file
 Save current state of a directory
 Duplicate last line
+Deletes all javascript files
