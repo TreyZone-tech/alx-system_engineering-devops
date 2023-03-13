@@ -17,3 +17,4 @@ Whats next
 I hate bins
 Letters only please
 A to Z
+Remove C from all words
