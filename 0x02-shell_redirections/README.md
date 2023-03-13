@@ -16,3 +16,4 @@ Count the number of lines that contain a word
 Whats next
 I hate bins
 Letters only please
+A to Z
