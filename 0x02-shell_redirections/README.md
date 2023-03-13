@@ -20,3 +20,4 @@ A to Z
 Remove C from all words
 Reverses its input
 DJ cut killer
+Advanced task 1
