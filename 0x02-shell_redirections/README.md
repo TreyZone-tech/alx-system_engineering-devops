@@ -5,3 +5,5 @@ diplaying content to two directories
 Last lines of a file
 Third line of a file
 Creates a file
+Save current state of a directory
+Duplicate last line
