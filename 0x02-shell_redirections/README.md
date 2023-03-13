@@ -11,3 +11,4 @@ Deletes all javascript files
 Task 11
 10 newest file in the current directory
 Sorting and identifying unique characters
+Finding a word
